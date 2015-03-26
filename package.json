@@ -1,0 +1,11 @@
+{
+  "name": "CruxApi",
+  "version": "1.0.0",
+  "description": "Ejemplo de rest api",
+  "author": "adiaz",  
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "mongoose": "^3.8.25"
+  }
+}
